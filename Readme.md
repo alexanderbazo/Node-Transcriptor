@@ -1,5 +1,6 @@
 # Node.js CLI interface for Googles Cloud Speech to Text Service
-git
+
+This script uploads a local audio file to a *Google Cloud Bucket* and transcribes the audio by using *Google Speech To Text Service*.
 
 # Usage
 
