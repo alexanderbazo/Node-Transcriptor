@@ -1,0 +1,12 @@
+# google service account
+google/
+
+# samples 
+*.wav
+*.mp3
+
+# local config
+config.json
+
+# node
+node_modules

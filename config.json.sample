@@ -1,0 +1,9 @@
+{
+    "credentialFile": "./credentials.json", // Path to credential file from Google Dev Console
+    "bucketName": "test-bucket", // Google Cloud Bucket for uploading larger input files
+    "encoding": "WAV", // encoding of input file
+    "sampleRateHertz": 44100, // hertz rate of input file
+    "languageCode": "de-DE" // language of input file
+    "useEnhanced": "false" // enable use of enhanced recognition model
+    "model": "phone_call" // set to phone_call or video when using enhanced model
+}

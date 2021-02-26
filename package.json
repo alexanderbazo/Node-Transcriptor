@@ -1,0 +1,19 @@
+{
+    "name": "cli-node-transcription",
+    "version": "0.1.0",
+    "description": "A node based cli interface for googles transcription service",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alexander Bazo <alexanderbazo@googlemail.com>",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "@google-cloud/speech": "^4.2.0",
+        "@google-cloud/storage": "^5.8.0"
+    }
+}
